@@ -12,7 +12,7 @@ programs can be found in the ./src folder:
 1. oneresistor.m represents the simplest case possible: a circuit with one resistor. The resistor is added at the load end
 of the transmission line. 
 
-2. RCLload.m represents a circuit eith parallel RCL elements added to the load. 
+2. RCLload.m represents a circuit with parallel RCL elements added to the load. 
 
 3. MatNetwork.m is a matched network. This means that the RC element at the load will perfectly match the network at the
 simulated frequency, eliminating any reflections of V and I along the transmission line.
